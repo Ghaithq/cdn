@@ -31,4 +31,3 @@ const handleRefferal = async (
       console.error("Unsupported OS");
     }
 };
-console.log("xxxxxxxxxxxxxxxx")
